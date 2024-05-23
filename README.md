@@ -3,7 +3,11 @@
 ![project 1](https://github.com/BijoyTS/Project/assets/169789934/89525ed0-c456-4213-be16-2e843bb9edda)
 ![project 3](https://github.com/BijoyTS/Project/assets/169789934/a32ca21d-4c1d-4c40-b39e-581ace39e188)
 ![project 4](https://github.com/BijoyTS/Project/assets/169789934/00323fb0-3bf7-45c4-bc95-4cf96e918846)
-This project is a React Native application designed to fetch and display COVID-19 statistics from an external API. It provides a simple user interface where users can register with a username and password, and upon successful registration, it displays the latest COVID-19 statistics.
+
+
+
+
+
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, ScrollView, ImageBackground } from 'react-native';
 
